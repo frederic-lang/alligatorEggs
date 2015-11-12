@@ -1,0 +1,4 @@
+"src/lambda": include
+true: syntax(camlp4o)
+true: package(js_of_ocaml), package(js_of_ocaml.syntax)
+true: -linkpkg
